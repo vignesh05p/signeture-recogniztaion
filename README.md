@@ -13,14 +13,14 @@ This Python project aims to develop a signature recognition system using machine
 - Graphical User Interface (GUI): A user-friendly interface for interacting with the system.
 
 ## Requirements
-- Python 3.x
-- Required Python libraries: 
-  - OpenCV
-  - TensorFlow
-  - NumPy
-  - Matplotlib
-  - PyQt5 (for GUI)
-- Pre-trained model (optional, if using transfer learning)
+Before downloading the project download the necessary modules:
+pip install keras
+pip install numpy
+pip install pandas
+pip install sklearn
+pip install os
+pip install matplotlib
+
 
 ## Installation
 1. Clone this repository:
@@ -47,6 +47,8 @@ If you want to train the model on custom data:
    ```bash
    python train.py
    ```
+   
+
 
 
 ## Acknowledgments
