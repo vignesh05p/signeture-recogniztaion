@@ -1,4 +1,3 @@
-Certainly! Below is a template for a README file for a signature recognition Python project. You can customize it according to your specific project details:
 
 ---
 
