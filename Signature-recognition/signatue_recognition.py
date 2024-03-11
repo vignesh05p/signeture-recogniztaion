@@ -1,7 +1,6 @@
 import  keras
 from sklearn.model_selection import  train_test_split
 
-
 TEST_DIR='E:/Python/signatue_recognition/data/test/'
 
 SIGNATURE_CLASSES = ['A', 'B', 'C','D','E','F','K','L','M','N','O','P']
