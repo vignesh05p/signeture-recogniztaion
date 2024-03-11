@@ -16,6 +16,7 @@ from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
 from matplotlib import ticker
 
+
 from keras.models import Sequential
 from keras.layers import Dropout, Flatten, Convolution2D, MaxPooling2D, ZeroPadding2D, Dense, Activation
 from keras.optimizers import SGD, Adagrad
