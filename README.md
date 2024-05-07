@@ -10,6 +10,7 @@ This Python project aims to develop a signature recognition system using machine
 - Signature verification: Verify the authenticity of signatures against a known database.
 - Graphical User Interface (GUI): A user-friendly interface for interacting with the system.
 
+
 ## Requirements
 Before downloading the project download the necessary modules:
 pip install keras
